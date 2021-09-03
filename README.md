@@ -72,8 +72,9 @@ Syllabus Part 1
     * Get the most out of the CPU power using at least 3 or all the recommendedoptimizations
 
 
-![alt text](pics/cornell.png)
-![alt text](pics/image.png)
+![cornellbox](pics/cornell.png)
+![dragon](pics/image.png)
+![checkerboard](pics/checkerboard.png)
 
 
 
