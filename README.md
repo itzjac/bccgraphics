@@ -52,6 +52,9 @@ Syllabus Part 1
  * Ray tracing
     * Stages
     * Intersection algorithms
+    * Shadows
+    * Reflection
+    * Shading
     * Recursion
 
 
@@ -66,6 +69,13 @@ Syllabus Part 1
     * SIMD
  * Project 4
     * Get the most out of the CPU power using at least 3 or all the recommendedoptimizations
+
+
+![alt text](pics/cornell.png)
+![alt text](pics/dragon.png)
+![alt text](pics/image.png)
+
+
 
 
 Part 2 of the course continues after the Ray Tracing assignment (Project 3). 
