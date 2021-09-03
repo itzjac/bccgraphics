@@ -7,8 +7,9 @@ real time 3D graphics using a modern 3D API like OpenGL, DirectX or Vulkan.
 Requisites
  * Linear algebra
  * Calculus
- * Computer algorithms
+ * Data structure and algorithms
  * C and C++
+ * Optimizing CPU programs
 
 
 What this course is NOT about
