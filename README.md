@@ -72,7 +72,6 @@ Syllabus Part 1
 
 
 ![alt text](pics/cornell.png)
-![alt text](pics/dragon.png)
 ![alt text](pics/image.png)
 
 
