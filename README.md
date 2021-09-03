@@ -74,7 +74,7 @@ Syllabus Part 1
 
 ![cornellbox](pics/cornell.png)
 ![dragon](pics/image.png)
-![checkerboard](pics/checkerboard.png)
+![checkerboard](pics/checkerboard2.png)
 
 
 
