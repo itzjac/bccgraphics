@@ -13,8 +13,8 @@ Requisites
 
 
 What this course is NOT about
- * Specifics on how to use an 3D API like Direct3D, Vulkan or OpenGL
- * Specifics on how to program in C or C++, or any other low level language, though is mandatory  previous experience working with those languages
+ * Specifics on how to use a 3D API like Direct3D, Vulkan or OpenGL
+ * Specifics on how to program in C or C++, or any other low level language, though is mandatory previous experience on any of those languages
  
 Syllabus Part 1
 
@@ -68,6 +68,7 @@ Syllabus Part 1
     * Multiple rays
     * Multi-threading
     * SIMD
+ 
  * Project 4
     * Get the most out of the CPU power using at least 3 or all the recommendedoptimizations
 
@@ -80,8 +81,8 @@ Syllabus Part 1
 
 
 Part 2 of the course continues after the Ray Tracing assignment (Project 3). 
-It is a mandatory  to have completed with good scores, all the 
-previous projects (except the optionals).
+It is a mandatory to have completed with good scores all the 
+previous projects (except otional sections).
 
 Syllabus Part 2
  * Refraction
