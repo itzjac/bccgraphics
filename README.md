@@ -98,4 +98,8 @@ Syllabus Part 2
 
 
 
+Resources
+
+* Physically Based Rendering: From theory to practice https://www.pbrt.org/
+
 
