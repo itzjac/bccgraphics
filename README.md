@@ -89,14 +89,22 @@ Syllabus Part 2
  * Project 1
  * Real time ray tracing using a modern API like Optix or DXR
  * Project 2
- * Global illumination
+ * Direct lighting
+    * The rendering equation
+    * Area lights
+    * Analytic solution
+    * Monte Carlo stratify, random sampling
+    
  * Project 3
- * The rendering equation
+    *  Cornell box using Monte Carlo stratify area lights
+    
+ * Global illumination
+ * 
  * Project 4
  * Optimization (optional)
  * Project 5
 
-
+![cornelldirectlighting](pics/cornelldi.png)
 
 Resources
 
