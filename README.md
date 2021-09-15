@@ -11,6 +11,7 @@ Requisites
  * C and C++
  * Optimizing CPU programs
 
+IMPORTANT
 
 What this course is NOT about
  * Specifics on how to use a 3D API like Direct3D, Vulkan or OpenGL
@@ -18,7 +19,7 @@ What this course is NOT about
  
 Syllabus Part 1
 
- * 3D graphics pipeline & rasterization 
+ ## 3D graphics pipeline & rasterization 
    * Pipeline stages
    * Matrices through the pipeline
    * The rasterization algorithm
@@ -28,21 +29,18 @@ Syllabus Part 1
    * Familiarize with the framework and solutions (Windows VS2017)
    * Familiarize with a particular API and real time rendering
 
-
- * Cameras, scenes graphs 
+ ## Cameras, scenes graphs 
    * Matrices for the camera
    * Tansformations
    * Perspective and orthogonal cameras
    * Algorithms to build graphs
    * Derive formulas for the camera
 
-
  * Project 1
     * Manipulate a crystal ball and/or fly camera
     * Define and load scenes using general transformations
-     
     
- * Blinn Phong lighting model and texturing
+ ## Blinn Phong lighting model and texturing
     * Lambertian term
     * Blinn-Phong model
     * Texturing
@@ -50,7 +48,7 @@ Syllabus Part 1
  * Project 2
     * Apply the lighting model to a general scene
    
- * Ray tracing
+ ## Ray tracing
     * Stages
     * Intersection algorithms
     * Shadows
@@ -58,11 +56,10 @@ Syllabus Part 1
     * Shading
     * Recursion
 
-
  * Project 3
     * Generate high quality images using ray tracing algorithms
     
- * Optimization (optional)
+ ## Optimization (optional)
     * AABB
     * Space traversal
     * Multiple rays
@@ -70,7 +67,7 @@ Syllabus Part 1
     * SIMD
  
  * Project 4
-    * Get the most out of the CPU power using at least 3 or all the recommendedoptimizations
+    * Get the most out of the CPU power using at least 3 or all the recommended optimizations
 
 
 ![cornellbox](pics/cornell.png)
@@ -85,11 +82,15 @@ It is a mandatory to have completed with good scores all the
 previous projects (except otional sections).
 
 Syllabus Part 2
- * Refraction
+ ## Refraction
+ 
  * Project 1
- * Real time ray tracing using a modern API like Optix or DXR
+  
+ ## Real time ray tracing using a modern API like Optix or DXR
+ 
  * Project 2
- * Direct lighting
+  
+ ## Direct lighting
     * The rendering equation
     * Area lights
     * Analytic solution
@@ -98,10 +99,12 @@ Syllabus Part 2
  * Project 3
     *  Cornell box using Monte Carlo stratify area lights
     
- * Global illumination
- * 
+ ## Global illumination
+  
  * Project 4
- * Optimization (optional)
+  
+ ## Optimization (optional)
+ 
  * Project 5
 
 ![cornelldirectlighting](pics/cornelldi.png)
