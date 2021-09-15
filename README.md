@@ -25,7 +25,7 @@ Syllabus Part 1
    * The rasterization algorithm
    * Z-buffer
    
- * Project 0
+ ### Project 0
    * Familiarize with the framework and solutions (Windows VS2017)
    * Familiarize with a particular API and real time rendering
 
@@ -36,17 +36,17 @@ Syllabus Part 1
    * Algorithms to build graphs
    * Derive formulas for the camera
 
- * Project 1
-    * Manipulate a crystal ball and/or fly camera
-    * Define and load scenes using general transformations
+ ### Project 1
+   * Manipulate a crystal ball and/or fly camera
+   * Define and load scenes using general transformations
     
  ## Blinn Phong lighting model and texturing
    * Lambertian term
    * Blinn-Phong model
    * Texturing
     
- * Project 2
-    * Apply the lighting model to a general scene
+ ### Project 2
+   * Apply the lighting model to a general scene
    
  ## Ray tracing
    * Stages
@@ -56,8 +56,8 @@ Syllabus Part 1
    * Shading
    * Recursion
 
- * Project 3
-    * Generate high quality images using ray tracing algorithms
+ ### Project 3
+   * Generate high quality images using ray tracing algorithms
     
  ## Optimization (optional)
    * AABB
@@ -66,8 +66,8 @@ Syllabus Part 1
    * Multi-threading
    * SIMD
  
- * Project 4
-    * Get the most out of the CPU power using at least 3 or all the recommended optimizations
+ ### Project 4
+   * Get the most out of the CPU power using at least 3 or all the recommended optimizations
 
 
 ![cornellbox](pics/cornell.png)
@@ -84,11 +84,11 @@ previous projects (except otional sections).
 Syllabus Part 2
  ## Refraction
  
- * Project 1
+ ### Project 1
   
  ## Real time ray tracing using a modern API like Optix or DXR
  
- * Project 2
+ ### Project 2
   
  ## Direct lighting
    * The rendering equation
@@ -96,16 +96,16 @@ Syllabus Part 2
    * Analytic solution
    * Monte Carlo stratify, random sampling
     
- * Project 3
-    *  Cornell box using Monte Carlo stratify area lights
+ ### Project 3
+   *  Cornell box using Monte Carlo stratify area lights
     
  ## Global illumination
   
- * Project 4
+ ### Project 4
   
  ## Optimization (optional)
  
- * Project 5
+ ### Project 5
 
 ![cornelldirectlighting](pics/cornelldi.png)
 
