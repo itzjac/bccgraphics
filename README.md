@@ -41,30 +41,30 @@ Syllabus Part 1
     * Define and load scenes using general transformations
     
  ## Blinn Phong lighting model and texturing
-    * Lambertian term
-    * Blinn-Phong model
-    * Texturing
+   * Lambertian term
+   * Blinn-Phong model
+   * Texturing
     
  * Project 2
     * Apply the lighting model to a general scene
    
  ## Ray tracing
-    * Stages
-    * Intersection algorithms
-    * Shadows
-    * Reflection
-    * Shading
-    * Recursion
+   * Stages
+   * Intersection algorithms
+   * Shadows
+   * Reflection
+   * Shading
+   * Recursion
 
  * Project 3
     * Generate high quality images using ray tracing algorithms
     
  ## Optimization (optional)
-    * AABB
-    * Space traversal
-    * Multiple rays
-    * Multi-threading
-    * SIMD
+   * AABB
+   * Space traversal
+   * Multiple rays
+   * Multi-threading
+   * SIMD
  
  * Project 4
     * Get the most out of the CPU power using at least 3 or all the recommended optimizations
@@ -91,10 +91,10 @@ Syllabus Part 2
  * Project 2
   
  ## Direct lighting
-    * The rendering equation
-    * Area lights
-    * Analytic solution
-    * Monte Carlo stratify, random sampling
+   * The rendering equation
+   * Area lights
+   * Analytic solution
+   * Monte Carlo stratify, random sampling
     
  * Project 3
     *  Cornell box using Monte Carlo stratify area lights
