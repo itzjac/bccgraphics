@@ -104,7 +104,7 @@ Syllabus Part 2
  * Optimization (optional)
  * Project 5
 
-![cornelldirectlighting](pics/cornelldi.png)
+![cornelldirectlighting](pics/cornelldi2.png)
 
 Resources
 
