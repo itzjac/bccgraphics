@@ -111,6 +111,9 @@ Syllabus Part 2
 
 Resources
 
+* The OpenGL Programming Guide Ninth Edition (The Red Book) http://www.opengl-redbook.com/
+* The OpenGL Shading Language: Third Edition (Orange Book) https://www.oreilly.com/library/view/opengl-shading-language/9780321669247/fm.html
+* Computer Graphics: Principles and Practice (3rd Edition), John F. Hughes Andries van Dam Morgan McGuire David F. Sklar James D. Foley Steven K. Feiner Kurt Akeley https://www.pearson.com/uk/educators/higher-education-educators/program/Hughes-Computer-Graphics-Principles-and-Practice-3rd-Edition/PGM819382.html
 * An introduction to ray tracing By Andrew Glassne https://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf
 * Physically Based Rendering: From theory to practice https://www.pbrt.org/
 
