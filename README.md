@@ -111,6 +111,7 @@ Syllabus Part 2
 
 Resources
 
+* An introduction to ray tracing By Andrew Glassne https://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf
 * Physically Based Rendering: From theory to practice https://www.pbrt.org/
 
 
