@@ -108,7 +108,7 @@ Syllabus Part 2
  ### Project 5
 
 ![cornelldirectlighting](pics/cornelldi.png)
-![Blender TBC mesh exporter to ray tracer](monkey_sphere.png)
+![Blender TBC mesh exporter to ray tracer](pics/monkey_sphere.png)
 
 Resources
 
