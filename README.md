@@ -15,7 +15,7 @@ IMPORTANT
 
 What this course is NOT about
  * Specifics on how to use a 3D API like Direct3D, Vulkan or OpenGL
- * Specifics on how to program in C or C++, or any other low level language, though is mandatory previous experience on any of those languages
+ * Specifics on how to program in C or C++, or any other low level language, previous experience on any of those languages is mandatory
  
 Syllabus Part 1
 
@@ -26,7 +26,7 @@ Syllabus Part 1
    * Z-buffer
    
  ### Project 0
-   * Familiarize with the framework and solutions (Windows VS2017)
+   * Familiarize with the framework and solutions (Windows VS2019 community)
    * Familiarize with a particular API and real time rendering
 
  ## Cameras, scenes graphs 
