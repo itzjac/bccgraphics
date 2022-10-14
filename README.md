@@ -119,5 +119,7 @@ Resources
 * An introduction to ray tracing By Andrew Glassne https://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf
 * Ray tracing in a weekend https://github.com/RayTracing/raytracing.github.io
 * Physically Based Rendering: From theory to practice https://www.pbrt.org/
+* Introduction to DirectX Ray Tracing https://intro-to-dxr.cwyman.org/
+
 
 
