@@ -122,6 +122,7 @@ Resources
 * Introduction to DirectX Ray Tracing https://intro-to-dxr.cwyman.org/
 * Mitsuba https://github.com/mmp/pbrt-v4
 * pbrt https://github.com/mmp/pbrt-v4 
+* Test scenes https://www.pbrt.org/scenes-v3
 
 
 
