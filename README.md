@@ -120,6 +120,8 @@ Resources
 * Ray tracing in a weekend https://github.com/RayTracing/raytracing.github.io
 * Physically Based Rendering: From theory to practice https://www.pbrt.org/
 * Introduction to DirectX Ray Tracing https://intro-to-dxr.cwyman.org/
+* Mitsuba https://github.com/mmp/pbrt-v4
+* pbrt https://github.com/mmp/pbrt-v4 
 
 
 
