@@ -95,6 +95,10 @@ Syllabus Part 2
    * Area lights
    * Analytic solution
    * Monte Carlo stratify, random sampling
+
+![cornelldirectlighting](pics/red_dragonDL2.png)
+![cornelldirectlighting](pics/red_dragonDL.png)
+
     
  ### Project 3
    *  Cornell box using Monte Carlo stratify area lights
