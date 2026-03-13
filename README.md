@@ -96,16 +96,16 @@ Syllabus Part 2
    * Analytic solution
    * Monte Carlo stratify, random sampling
 
-![cornelldirectlighting](pics/red_dragonDL2.png)
-![cornelldirectlighting](pics/red_dragonDL.png)
+!['red_dragonDL2](pics/red_dragonDL2.png)
+![red_dragonDL](pics/red_dragonDL.png)
 
     
  ### Project 3
    *  Cornell box using Monte Carlo stratify area lights
     
  ## Global illumination
-
-![cornelldirectlighting](pics/cornellCosine_IL.png)
+![cornellCosine_IL2](pics/cornellCosine_IL2.png)
+![cornellCosine_IL](pics/cornellCosine_IL.png)
   
  ### Project 4
   
