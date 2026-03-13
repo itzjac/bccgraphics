@@ -105,7 +105,7 @@ Syllabus Part 2
     
  ## Global illumination
 
-![cornelldirectlighting](cornullCosine_IL.png)
+![cornelldirectlighting](cornellCosine_IL.png)
   
  ### Project 4
   
