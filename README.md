@@ -104,6 +104,7 @@ Syllabus Part 2
    *  Cornell box using Monte Carlo stratify area lights
     
  ## Global illumination
+![monkeyNEE](pics/monkeyNEE.png)
 ![cornellCosine_IL2](pics/cornellCosine_IL2.png)
 ![cornellCosine_IL](pics/cornellCosine_IL.png)
   
