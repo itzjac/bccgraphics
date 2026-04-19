@@ -3,6 +3,7 @@
 This course will help you to understand the mathematics and algorithms necessary to perform
 real time 3D graphics using a modern 3D API like OpenGL, DirectX or Vulkan.
 
+![skulls](pics/skulls.png)
 
 Requisites
  * Linear algebra
